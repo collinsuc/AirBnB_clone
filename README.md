@@ -1,3 +1,4 @@
+Welcome to the AirBnB clone project!
 AirBnB clone - The console
 The Airbnb clone project for which we are creating a copy of the Airbnb. Only some features will be implemented and will be listed below once completed.
 
